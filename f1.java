@@ -1,1 +1,1 @@
-class fi{int i2=5;string j;}
+class fi{int i=15;}
